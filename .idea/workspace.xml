@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5df038d0-1ab1-477c-bcf0-43ac45428a3c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5df038d0-1ab1-477c-bcf0-43ac45428a3c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,5 +108,9 @@
       <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state x="258" y="98" key="Maven.ArtifactSearchDialog/0.23.1440.828@0.23.1440.828" timestamp="1588869107558" />
+    <state x="88" y="99" key="new project wizard" timestamp="1589285047022">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="88" y="99" key="new project wizard/0.23.1440.828@0.23.1440.828" timestamp="1589285047022" />
   </component>
 </project>

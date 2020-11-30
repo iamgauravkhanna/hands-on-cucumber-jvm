@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="cucumber-jvm-project" />
+        <module name="hands-on-cucumber-jvm" />
       </profile>
     </annotationProcessing>
   </component>

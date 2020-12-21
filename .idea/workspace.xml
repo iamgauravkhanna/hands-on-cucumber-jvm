@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5df038d0-1ab1-477c-bcf0-43ac45428a3c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/step_defs/GoogleSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/step_defs/GoogleSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +102,22 @@
       <screen x="0" y="23" width="1440" height="835" />
     </state>
     <state x="223" y="23" key="#Project_Structure/0.23.1440.835@0.23.1440.835" timestamp="1606730656607" />
+    <state width="1398" height="217" key="GridCell.Tab.0.bottom" timestamp="1606744794099">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state width="1398" height="217" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1606744794099" />
+    <state width="1398" height="217" key="GridCell.Tab.0.center" timestamp="1606744794098">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state width="1398" height="217" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1606744794098" />
+    <state width="1398" height="217" key="GridCell.Tab.0.left" timestamp="1606744794097">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state width="1398" height="217" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1606744794097" />
+    <state width="1398" height="217" key="GridCell.Tab.0.right" timestamp="1606744794098">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state width="1398" height="217" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1606744794098" />
     <state width="500" height="445" key="SwitcherDM" timestamp="1606730715392">
       <screen x="0" y="23" width="1440" height="835" />
     </state>

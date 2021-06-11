@@ -4,5 +4,8 @@ Feature: Google Search
   @smoke
   Scenario: Simple Search
     Given Open Google Home Page
-    When Text "gaurav" is entered
+    When Text is entered
+    |gaurav|
+    |kumar|
+    |khanna|
     Then results for "gaurav" is shown
